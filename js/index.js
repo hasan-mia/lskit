@@ -12,7 +12,7 @@ $('.comment').slick({
         {
             breakpoint: 768,
             settings: {
-                arrows: false,
+                arrows: true,
                 centerMode: true,
                 variableWidth: true,
                 centerPadding: '40px',
@@ -22,7 +22,7 @@ $('.comment').slick({
         {
             breakpoint: 480,
             settings: {
-                arrows: false,
+                arrows: true,
                 centerMode: true,
                 variableWidth: true,
                 centerPadding: '40px',
