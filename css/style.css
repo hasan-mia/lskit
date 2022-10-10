@@ -12,6 +12,7 @@
     --bg-brand: #FEF7F6;
     --bg-footer: #D63722;
     --bg-top-footer: #F15A46;
+    --bg-star: #FFA800;
 }
 
 *{
@@ -90,6 +91,14 @@ p{
 .project-done .card img {
     height: 80px;
 }
+/* Review */
+.text-w {
+    width: 216px;
+}
+.star{
+    color: #FFA800;
+}
+
 /* Brand */
 .brand{
     background: var(--bg-brand);
